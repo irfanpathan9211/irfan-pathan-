@@ -1,2 +1,3 @@
 # irfan-pathan-
-this is my first repository
+this is my first repositorya
+Author - irfan pathan 
